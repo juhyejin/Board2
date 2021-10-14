@@ -1,0 +1,13 @@
+.article_item{
+    padding: 10px;
+    border: 2px solid #ff9999;
+    color : darkgreen;
+
+}
+.article_button{
+    float : right;
+}
+.article_img{
+    text-align: center;
+}
+
